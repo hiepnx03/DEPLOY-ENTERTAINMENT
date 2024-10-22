@@ -6,4 +6,5 @@
 # [FE1](https://hiepnx03.github.io/ENTERTAINMENT-DEPLOYMENT/testproject/nguyenthithanhtam/src/views/layout-main/LayoutMain.html)
 # [PROFILE-GAME](https://hiepnx03.github.io/ENTERTAINMENT-DEPLOYMENT/game/dinhtrieu/hellotrieu.html)
 # [MY-PROFILE-GAME](https://hiepnx03.github.io/ENTERTAINMENT-DEPLOYMENT/game/xuanhiep/hellohiep.html)
+# [MY-PROFILE-GAME-LIST](https://hiepnx03.github.io/ENTERTAINMENT-DEPLOYMENT/game/profilegame/index.html)
 # [HOBBIES](https://hiepnx03.github.io/ENTERTAINMENT-DEPLOYMENT/hobbies/hellohiep.html)
