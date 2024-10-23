@@ -1,6 +1,6 @@
 # DEPLOY-ENTERTAINMENT
 
-# [OLD1](https://hiepnx03.github.io/ENTERTAINMENT-DEPLOYMENT/old1/index.html)
+# [OLD HTML](https://hiepnx03.github.io/ENTERTAINMENT-DEPLOYMENT/love/index.html)
 # [F8](https://hiepnx03.github.io/ENTERTAINMENT-DEPLOYMENT/f8-project-08/index.html)
 # [OLD](https://hiepnx03.github.io/ENTERTAINMENT-DEPLOYMENT/old/d.html)
 # [HACKNASA](https://hiepnx03.github.io/ENTERTAINMENT-DEPLOYMENT/testproject/nasa/hack.html)
